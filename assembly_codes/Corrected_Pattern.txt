@@ -1,0 +1,1141 @@
+ Pattern No : 1
+/*
+ *
+ *	D
+ *	D	C
+ *	D	C	B
+ *	D	C	B	A
+ *	D	C	B	
+ *	D	C	
+ *	D	
+ *
+ */
+
+ Pattern No : 2
+/*
+ *
+ *	3
+ *	2	3
+ *	1	2	3
+ *	0	1	2	3
+ *	1	2	3	
+ *	2	3	
+ *	3	
+ *
+ */
+
+ Pattern No : 3
+/*
+ *
+ *	5	4	3	2	1
+ *	5	4	3	2
+ *	5	4	3
+ *	5	4
+ *	5
+ *
+ */
+
+ Pattern No : 4
+/*
+ *
+ * 					1		
+ *				3	2	1			
+ *			5	4	3	2	1		
+ *		7	6	5	4	3	2	1		
+ *	9	8	7	6	5	4	3	2 	1
+ *
+ */
+
+ Pattern No : 5
+/*
+ *
+ *	*
+ *	*	*
+ *	*	*	*
+ *	*	*	*	*
+ *	*	*	*	
+ *	*	*	
+ *	*	
+ *
+ */
+
+ Pattern No : 6
+/*
+ *
+ * 					*			
+ *				*	*	*			
+ *			*	*	*	*	*		
+ *		*	*	*	*	*	*	*		
+ *	*	*	*	*	*	*	*	*	*
+ *
+ */
+
+ Pattern No : 7
+/*
+ *
+ *					5
+ *				4		4
+ * 			3		 		3
+ * 		2		 		 		2
+ *	1		 		 		 		1
+ *
+ */
+
+ Pattern No : 8
+/*
+ *
+ *	E	E	E	E	E
+ *	D	D	D	D
+ *	C	C	C
+ *	B	B
+ *	A
+ *
+ */
+
+ Pattern No : 9
+/*
+ *
+ *	*								*
+ *		*						*
+ * 			*		 		*
+ * 				* 	 	*
+ *					*
+ *
+ */
+
+ Pattern No : 10
+/*
+ *
+ * 					A		
+ *				B	A	B			
+ *			C	B	A	B	C		
+ *		D	C	B	A	B	C	D		
+ *	E	D	C	B	A	B	C	D	E
+ *
+ */
+
+ Pattern No : 11
+/*
+ *
+ *					E
+ *				D		D
+ * 			C		 		C
+ * 		B		 		 		B
+ *	A		 		 		 		A
+ *
+ */
+
+ Pattern No : 12
+/*
+ *
+ *	A	A	A	A	A
+ *	B	B	B	B	B
+ *	C	C	C	C	C
+ *	D	D	D	D	D
+ *	E	E	E	E	E
+ *
+ */
+
+ Pattern No : 13
+/*
+ *
+ *	E	D	C	B	A
+ *	E	D	C	B	A
+ *	E	D	C	B	A
+ *	E	D	C	B	A
+ *	E	D	C	B	A
+ *
+ */
+
+ Pattern No : 14
+/*
+ *
+ *					1
+ *				2		2
+ * 			3		3		3
+ * 		4		4		4		4
+ *	5		5		5		5		5
+ *
+ */
+
+ Pattern No : 15
+/*
+ *      1       2       3       4
+ * 1				*
+ * 2			*		*
+ * 3		*		*		*
+ * 4	*		*		*		*
+ * 5		*		*		*	
+ * 6			*		*
+ * 7				*
+ *
+ */
+
+ Pattern No : 16
+/*
+ *		
+ *					A	
+ *				B		B
+ *			C				C
+ *		D						D
+ *	E								E
+ *		D						D
+ *			C				C
+ *				B		B
+ *					A
+ */
+
+ Pattern No : 17
+/*
+ *
+ *	E		E		E		E		E
+ * 		D		D		D		D
+ * 			C		C		C
+ *				B		B
+ * 					A			
+ *
+ */
+
+ Pattern No : 18
+/*
+ *
+ *	1	2	3	4	5
+ *	1	2	3	4
+ *	1	2	3
+ *	1	2
+ *	1
+ *
+ */
+
+ Pattern No : 19
+/*
+ * 	1		 		 		 		1
+ * 		2		 		 		2
+ * 			3		 		3
+ *				4		4
+ *					5
+ *
+ */
+
+ Pattern No : 20
+/*
+ *
+ *	*		*		*		*		*
+ *		*		*		*		*
+ * 			*		*		*
+ * 				*		*		
+ *	 				*		
+ *
+ */
+
+ Pattern No : 21
+/*
+ *
+ *	1	1	1	1	1
+ *	2	2	2	2	2
+ *	3	3	3	3	3
+ *	4	4	4	4	4
+ *	5	5	5	5	5
+ *
+ */
+
+ Pattern No : 22
+/*
+ *
+ * 					A		
+ *				A	B	A			
+ *			A	B	C	B	A	
+ *		A	B	C	D	C	B	A	
+ *	A	B	C	D	E	D	C	B	A
+ *
+ */
+
+ Pattern No : 23
+/*
+ *
+ * 					1		
+ *				1	2	1			
+ *			1	2	3	2	1	
+ *		1	2	3	4	3	2	1		
+ *	1	2	3	4	5	4	3	2	1
+ *
+ */
+
+ Pattern No : 24
+/*
+ *
+ *	3
+ *	3	2
+ *	3	2	1
+ *	3	2	1	0
+ *	3	2	1	
+ *	3	2	
+ *	3	
+ *
+ */
+
+ Pattern No : 25
+/*
+ *
+ * 					A		
+ *				C	B	A			
+ *			E	D	C	B	A		
+ *		G	F	E	D	C	B	A
+ *	I	H	G	F	E	D	C	B 	A
+ *
+ */
+
+ Pattern No : 26
+/*
+ *
+ * 	1		b		c 		e
+ * 	d1 		b3 		cd 		eb1
+ * 	d5b 	        b15 	        cba1	        ecab
+ * 	d9ac	        b91e	        ce3d1 	        ed7b3
+ * 
+ */
+
+
+ Pattern No : 27
+/*
+ *		
+ *					1	
+ *				2		2
+ *			3				3
+ *		4						4
+ *	5								5
+ *		4						4
+ *			3				3
+ *				2		2
+ *					1
+ */
+
+ Pattern No : 28
+/*
+ *
+ *	5	5	5	5	5
+ *	4	4	4	4	4
+ *	3	3	3	3	3
+ *	2	2	2	2	2
+ *	1	1	1	1	1
+ *
+ */
+
+ Pattern No : 29
+ /*
+  *		)		(		&		#
+  *		%)		(*		&%		#()
+  *		%^(		()^		&(!)	        #&!(
+  *		%@!&	        (@)# 	        &#*%)	        #%$(*
+  *
+  */ 
+
+ Pattern No : 30
+/*
+ *
+ *	E	E	E	E	E
+ *	 	D	D	D	D
+ *	 	 	C	C	C
+ *				B	B
+ *					A
+ *
+ */
+
+ Pattern No : 31
+/*
+ *
+ *	1
+ *	1	2
+ *	1	2	3
+ *	1	2	3	4
+ *	1	2	3	4	5
+ *
+ */
+
+ Pattern No : 32
+/*
+ *
+ *	1	1	1	1	1
+ *	2	2	2	2
+ *	3	3	3
+ *	4	4
+ *	5
+ *
+ */
+
+ Pattern No : 33
+/*
+ *
+ *	A	A	A	A	A
+ *	B	B	B	B
+ *	C	C	C
+ *	D	D
+ *	E
+ *
+ */
+
+ Pattern No : 34
+/*
+ *
+ *				1
+ *			2		2
+ *		3		3		3
+ *	4		4		4		4
+ *		3		3		3	
+ *			2		2
+ *				1
+ *
+ */
+
+ Pattern No : 35
+/*
+ *
+ *				A
+ *			A		B
+ *		A		B		C
+ *	A		B		C		D
+ *		B		C		D	
+ *			C		D
+ *				D
+ *
+ */
+
+ Pattern No : 36
+/*
+ *
+ * 					A	
+ *				B	B	B			
+ *			C	C	C	C	C		
+ *		D	D	D	D	D	D	D		
+ *	E	E	E	E	E	E	E	E	E
+ *
+ */
+
+ Pattern No : 37
+/*
+ *
+ *	1
+ *	1	2
+ *	1	2	3
+ *	1	2	3	4
+ *	1	2	3	4	5
+ *
+ */
+
+ Pattern No : 38
+/*
+ *
+ *					1
+ *				2	2
+ * 			3	3	3
+ * 		4	4	4	4
+ *	5	5	5	5	5
+ *
+ */
+
+ Pattern No : 39
+/*
+ *
+ *				D
+ *			C	D
+ *		B	C	D
+ *	A	B	C	D
+ *		B	C	D	
+ *			C	D
+ *				D
+ *
+ */
+
+ Pattern No : 40
+/*
+ *
+ *					1
+ *				1		2
+ * 			1		2		3
+ * 		1		2		3		4
+ *	1		2		3		4		5
+ *
+ */
+
+ Pattern No : 41
+/*
+ *
+ *					A
+ *				A	B
+ * 			A	B	C
+ * 		A	B	C	D
+ *	A	B	C	D	E
+ *
+ */
+
+ Pattern No : 42
+/*
+ *
+ *				3
+ *			3	2
+ *		3	2	1
+ *	3	2	1	0
+ *		3	2	1	
+ *			3	2
+ *				3
+ *
+ */
+
+ Pattern No : 43
+/*
+ *
+ *	E		D		C		B		A
+ * 		D		C		B		A
+ * 			C		B		A
+ *				B		A
+ * 					A			
+ *
+ */
+
+ Pattern No : 44
+/*
+ *
+ * 					1		
+ *				3	3	3			
+ *			5	5	5	5	5		
+ *		7	7	7	7	7	7	7		
+ *	9	9	9	9	9	9	9	9	9
+ *
+ */
+
+ Pattern No : 45
+/*
+ *
+ *	1	2	3	4	5
+ *	 	1	2	3	4
+ *	 	 	1	2	3
+ *				1	2
+ *					1
+ *
+ */
+
+ Pattern No : 46
+/*
+ *
+ *	*	*	*	*	*
+ *	*	*	*	*
+ *	*	*	*
+ *	*	*
+ *	*
+ *
+ */
+
+ Pattern No : 47
+/*
+ *
+ *	5	4	3	2	1
+ *	5	4	3	2	1
+ *	5	4	3	2	1
+ *	5	4	3	2	1
+ *	5	4	3	2	1
+ *
+ */
+
+ Pattern No : 48
+/*
+ *
+ *					1
+ *				2		2
+ * 			3		 		3
+ * 		4		 		 		4
+ *	5		 		 		 		5
+ *
+ */
+
+ Pattern No : 49
+/*
+ *
+ *	1	2	3	4	5
+ *	1	2	3	4	5
+ *	1	2	3	4	5
+ *	1	2	3	4	5
+ *	1	2	3	4	5
+ *
+ */
+
+ Pattern No : 50
+/*
+ *
+ * 					1		
+ *				1	2	3			
+ *			1	2	3	4	5		
+ *		1	2	3	4	5	6	7		
+ *	1	2	3	4	5	6	7	8	9
+ *
+ */
+
+ Pattern No : 51
+/*
+ *
+ *	E	E	E	E	E
+ *	D	D	D	D	D
+ *	C 	C	C	C	C
+ *	B	B	B	B	B
+ *	A	A	A	A	A
+ *
+ */
+
+ Pattern No : 52
+/*
+ *
+ *					A
+ *				B	B
+ * 			C	C 	C
+ * 		D	D	D	D
+ *	E	E	E	E	E
+ *
+ */
+
+ Pattern No : 53
+/*
+ *
+ *	5	5	5	5	5	5	5	5	5
+ *		4	4	4	4	4	4	4		
+ *			3	3	3	3	3		
+ *				2	2	2		
+ *					1		
+ *
+ */
+
+ Pattern No : 54
+/*
+ *
+ *	A		B		C		D		E
+ * 		A		B		C		D
+ * 			A		B		C
+ *				A		B
+ * 					A			
+ *
+ */
+
+ Pattern No : 55
+ /*
+ *	1	2	4	8
+ *	7	5	1	2
+ *	4	8	7	5
+ *	1	2	4	8
+ */
+
+ Pattern No : 56
+/*
+ *
+ *					*
+ *				*		*
+ * 			*		*		*
+ * 		*		*		*		*
+ *	*		*		*		*		*
+ *
+ */
+
+ Pattern No : 57
+/*
+ *
+ *	9	9	9	9	9	9	9	9	9
+ *		7	7	7	7	7	7	7		
+ *			5	5	5	5	5		
+ *				3	3	3		
+ *					1		
+ *
+ */
+
+ Pattern No : 58
+/*
+ *
+ *				*
+ *			*	*
+ *		*	*	*
+ *	*	*	*	*
+ *		*	*	*	
+ *			*	*
+ *				*
+ *
+ */
+
+ Pattern No : 59
+/*
+
+	A	B	C	D	E	F	G	F	E	D	C	B	A
+	A	B	C	D	E	F		F	E	D	C	B	A
+	A	B	C	D	E				E	D	C	B	A
+	A	B	C	D						D	C	B	A
+	A	B	C								C	B	A
+	A	B									 	B	A
+	A												A
+
+ */
+
+ Pattern No : 60
+/*
+ *
+ *	1
+ *	2	2
+ *	3	3	3
+ *	4	4	4	4
+ *	5	5	5	5	5
+ *
+ */
+
+ Pattern No : 61
+/*
+ *
+ *	A	B	C	D	E
+ *	 	A	B	C	D
+ *	 	 	A	B	C
+ *				A	B
+ *					A
+ *
+ */
+
+ Pattern No : 62
+/*
+ *
+ *				D
+ *			D	C
+ *		D	C	B
+ *	D	C	B	A
+ *		D	C	B	
+ *			D	C
+ *				D
+ *
+ */
+
+ Pattern No : 63
+/*
+ *
+ *					A
+ *				B		B
+ * 			C		 		C
+ * 		D		 		 		D
+ *	E		 		 		 		E
+ *
+ */
+
+ Pattern No : 64
+/*
+ *
+ *	A	B	C	D	E
+ *	A	B	C	D
+ *	A	B	C
+ *	A	B
+ *	A
+ *
+ */
+
+ Pattern No : 65
+/*
+ *
+ *	5		5		5		5		5
+ * 		4		4		4		4
+ * 			3		3		3
+ *				2		2
+ * 					1			
+ *
+ */
+
+ Pattern No : 66
+/*
+ *
+ * 					0		
+ *				1	0	1			
+ *			2	1	0	1	2		
+ *		3	2	1	0	1	2	3		
+ *	4	3	2	1	0	1	2	3	4
+ *
+ */
+
+ Pattern No : 67
+/*
+ *
+ * 					A		
+ *				C	C	C			
+ *			E	E	E	E	E		
+ *		G	G	G	G	G	G	G		
+ *	I	I	I	I	I	I	I	I	I
+ *
+ */
+
+ Pattern No : 68
+/*
+ *
+ *				1
+ *			1		2
+ *		1		2		3
+ *	1		2		3		4
+ *		1		2		3	
+ *			1		2
+ *				1
+ *
+ */
+
+ Pattern No : 69
+/*
+ *
+ *	A	B	C	D	E	F	G	H	I
+ *		A	B	C	D	E	F	G		
+ *			A	B	C	D	E		
+ *				A	B	C		
+ *					A		
+ *
+ */
+
+ Pattern No : 70
+/*
+ *
+ *	1	2	3	4	5	6	7	8	9
+ *		1	2	3	4	5	6	7		
+ *			1	2	3	4	5		
+ *				1	2	3		
+ *					1		
+ *
+ */
+
+ Pattern No : 71 
+ /*
+ *		
+ *					E	
+ *				D		D
+ *			C				C
+ *		B						B
+ *	A								A
+ *		B						B
+ *			C				C
+ *				D		D
+ *					E
+ */
+
+ Pattern No : 72
+/*
+ *
+ *				3
+ *			2	3
+ *		1	2	3
+ *	0	1	2	3
+ *		1	2	3	
+ *			2	3
+ *				3
+ *
+ */
+
+ Pattern No : 73
+/*
+ *
+ *	5		4		3		2		1
+ * 		4		3		2		1
+ * 			3		2		1
+ *				2		1
+ * 					1			
+ *
+ */
+
+ Pattern No : 74
+/*
+ *
+ *	E	E	E	E	E	E	E	E	E
+ *		D	D	D	D	D	D	D		
+ *			C	C	C	C	C		
+ *				B	B	B		
+ *					A		
+ *
+ */
+
+ Pattern No : 75
+/*
+ *		
+ *					5	
+ *				4		4
+ *			3				3
+ *		2						2
+ *	1								1
+ *		2						2
+ *			3				3
+ *				4		4
+ *					5
+ */
+
+ Pattern No : 76
+/*
+ *
+ *					A
+ *				B		B
+ * 			C		C		C
+ * 		D		D		D		D	
+ *	E		E		E		E		E
+ *
+ */
+
+ Pattern No : 77
+/*
+ *
+ *	D
+ *	C	D
+ *	B	C	D
+ *	A	B	C	D
+ *	B	C	D	
+ *	C	D	
+ *	D	
+ *
+ */
+
+ Pattern No : 78
+/*
+ *
+ *	*	*	*	*	*	*	*	*	*
+ *		*	*	*	*	*	*	*		
+ *			*	*	*	*	*		
+ *				*	*	*		
+ *					*		
+ *
+ */
+
+ Pattern No : 79
+/*
+ *
+ *					*
+ *				*	*
+ * 			*	*	*
+ * 		*	*	*	*
+ *	*	*	*	*	*
+ *
+ */
+
+ Pattern No : 80
+/*
+ *		
+ *					*	
+ *				*		*
+ *			*				*
+ *		*						*
+ *	*								*
+ *		*						*
+ *			*				*
+ *				*		*
+ *					*
+ */
+
+ Pattern No : 81
+/*
+ *
+ *	5	5	5	5	5
+ *	 	4	4	4	4
+ *	 	 	3	3	3
+ *				2	2
+ *					1
+ *
+ */
+
+ Pattern No : 82
+/*
+ *
+ *	A
+ *	B	B
+ *	C	C	C
+ *	D	D	D	D
+ *	E	E	E	E	E
+ *
+ */
+
+ Pattern No : 83
+/*
+ *
+ *	*
+ *	*	*
+ *	*	*	*
+ *	*	*	*	*
+ *	*	*	*	*	*
+ *
+ */
+
+ Pattern No : 84
+/*
+ *
+ *	*	*	*	*	*
+ *	 	*	*	*	*
+ *	 	 	*	*	*
+ *				*	*
+ *					*
+ *
+ */
+
+ Pattern No : 85
+/*
+ *
+ *	5	5	5	5	5
+ *	4	4	4	4
+ *	3	3	3
+ *	2	2
+ *	1
+ *
+ */
+
+ Pattern No : 86
+/*
+ *
+ *	E	D	C	B	A
+ *	E	D	C	B
+ *	E	D	C
+ *	E	D
+ *	E
+ *
+ */
+
+ Pattern No : 87
+/*
+ *		
+ *	*	*	*	*	*	*	*	*	*
+ *	*	*	*	*		*	*	*	*
+ *	*	*	*				*	*	*
+ *	*	*						*	*
+ *	*								*
+ *
+ *
+ */
+
+ Pattern No : 88
+/*
+ *
+ * 					1		
+ *				2	2	2			
+ *			3	3	3	3	3		
+ *		4	4	4	4	4	4	4		
+ *	5	5	5	5	5	5	5	5	5
+ *
+ */
+
+ Pattern No : 89
+/*
+ * 	A		 		 		 		A
+ * 		B		 		 		B
+ * 			C		 		C
+ *				D		D
+ *					E
+ *
+ */
+
+ Pattern No : 90
+/*
+ *
+ *					1
+ *				1	2
+ * 			1	2	3
+ * 		1	2	3	4
+ *	1	2	3	4	5
+ *
+ */
+
+ Pattern No : 91
+/*
+ *
+ *					*
+ *				*		*
+ * 			*		 		*
+ * 		*		 		 		*
+ *	*		 		 		 		*
+ *
+ */
+
+ Pattern No : 92
+/*
+ *
+ *	*	*	*	*	*
+ *	*	*	*	*	*
+ *	*	*	*	*	*
+ *	*	*	*	*	*
+ *	*	*	*	*	*
+ *
+ */
+
+ Pattern No : 93
+/*
+ *	5		 		 		 		5
+ * 		4		 		 		4
+ * 			3		 		3
+ *				2		2
+ *					1
+ *
+ */
+
+ Pattern No : 94
+/*
+ *
+ *					A
+ *				A		B
+ * 			A		B		C
+ * 		A		B		C		D
+ *	A		B		C		D		E
+ *
+ */
+
+ Pattern No : 95
+/*
+ * 	E		 		 		 		E
+ * 		D		 		 		D
+ * 			C		 		C
+ *				B		B
+ *					A
+ *
+ */
+
+ Pattern No : 96
+/*
+ *
+ * 					A		
+ *				A	B	C			
+ *			A	B	C	D	E		
+ *		A	B	C	D	E	F	G		
+ *	A	B	C	D	E	F	G	H	I
+ *
+ */
+
+ Pattern No : 97
+/*
+ *
+ *				1
+ *			1		2
+ *		1		2		3
+ *	1		2		3		4
+ *		2		3		4	
+ *			3		4
+ *				4
+ *
+ */
+
+ Pattern No : 98 
+/*
+ *
+ *	A	B	C	D	E
+ *	A	B	C	D	E
+ *	A	B	C	D	E
+ *	A	B	C	D	E
+ *	A	B	C	D	E
+ *
+ */
+ 
+ Pattern No : 99
+ /*
+ *
+ *				A
+ *			B		B
+ *		C		C		C
+ *	D		D		D		D
+ *		C		C		C	
+ *			B		B
+ *				A
+ *
+ */
+
+ Pattern No : 100
+/*
+ *
+ *	I	I	I	I	I	I	I	I	I
+ *		G	G	G	G	G	G	G		
+ *			E	E	E	E	E		
+ *				C	C	C		
+ *					A	
+ *
+ */
+
