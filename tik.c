@@ -10,7 +10,7 @@ int check_win(void);
 void board(void);
 
 // Entry point of main function
-int main()
+int main(void)
 {
     int player = 1, i = 0 , choice = 0;
 
