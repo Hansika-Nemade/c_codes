@@ -9,22 +9,22 @@ int value = 1;
 int main(void)
 {
 
-    /*   arr[3][3][3][3][3][3][3][3][3][3][3][3]
-             |  |  |  |  |  |  |  |  |  |  |  |
-             |  |  |  |  |  |  |  |  |  |  |  |
-             |  |  |  |  |  |  |  |  |  |  |  |
-             |  |  |  |  |  |  |  |  |  |  |  |> 3 elements of type integer
-             |  |  |  |  |  |  |  |  |  |  |> 3 elements of 1D array
-             |  |  |  |  |  |  |  |  |  |> 3 elements of 2D array
-             |  |  |  |  |  |  |  |  |> 3 elements of 3D array
-             |  |  |  |  |  |  |  |> 3 elements of 4D array
-             |  |  |  |  |  |  |> 3 elements of 5D array
-             |  |  |  |  |  |> 3 elements of 6D array
-             |  |  |  |  |> 3 elements of 7D array
-             |  |  |  |> 3 elements of 8D array
-             |  |  |> 3 elements of 9D array
-             |  |> 3 elements of 10D array
- arr is an a |> 3 elements of 11D array
+    /*      arr[3][3][3][3][3][3][3][3][3][3][3][3]
+                |  |  |  |  |  |  |  |  |  |  |  |
+                |  |  |  |  |  |  |  |  |  |  |  |
+                |  |  |  |  |  |  |  |  |  |  |  |
+                |  |  |  |  |  |  |  |  |  |  |  |> 3 elements of type integer
+                |  |  |  |  |  |  |  |  |  |  |> 3 elements of 1D array
+                |  |  |  |  |  |  |  |  |  |> 3 elements of 2D array
+                |  |  |  |  |  |  |  |  |> 3 elements of 3D array
+                |  |  |  |  |  |  |  |> 3 elements of 4D array
+                |  |  |  |  |  |  |> 3 elements of 5D array
+                |  |  |  |  |  |> 3 elements of 6D array
+                |  |  |  |  |> 3 elements of 7D array
+                |  |  |  |> 3 elements of 8D array
+                |  |  |> 3 elements of 9D array
+                |  |> 3 elements of 10D array
+arr is an array |> 3 elements of 11D array
     
 
         total no of elements : 531,441
