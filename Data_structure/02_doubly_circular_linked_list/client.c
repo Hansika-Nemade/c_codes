@@ -84,7 +84,7 @@ int main(void)
     
     //              get_length
     printf("Length = %d\n", get_length(list));   
-    assert(is_list_empty(list) == true);
+    assert(is_list_empty(list) == false);
 
     //              find_data
     assert(find_data(list, 2) == true);
