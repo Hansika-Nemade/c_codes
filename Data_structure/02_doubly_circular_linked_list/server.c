@@ -187,10 +187,10 @@ list_t create_list(void)
  {
    if(list->next == list)
    {
-      return(false);
+      return(true);
    }
 
-   return(true);
+   return(false);
  }
 
  len_t get_length(list_t list)
