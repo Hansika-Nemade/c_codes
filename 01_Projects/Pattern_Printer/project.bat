@@ -1,0 +1,3 @@
+cl /EHsc pattern_client.c pattern01.c pattern02.c pattern03.c pattern04.c pattern05.c pattern06.c pattern07.c pattern08.c pattern09.c pattern10.c pattern11.c pattern12.c pattern13.c pattern14.c pattern15.c pattern16.c pattern17.c pattern18.c pattern19.c pattern20.c pattern21.c pattern22.c pattern23.c pattern24.c pattern25.c pattern26.c pattern27.c pattern28.c pattern29.c pattern30.c pattern31.c pattern32.c pattern33.c pattern34.c pattern35.c pattern36.c pattern37.c pattern38.c pattern39.c pattern40.c pattern41.c pattern42.c pattern43.c pattern44.c pattern45.c pattern46.c pattern47.c pattern48.c pattern49.c pattern50.c
+
+pattern_client.exe
