@@ -3,6 +3,7 @@
 #include	<iostream>
 #include	"date.hpp"
 
+// object creation
 Date date_1(10, MONTH::FEBRUARY, 2023);
 
 //     ENTRY POINT OF MAIN FUNCTION
